@@ -1,0 +1,1 @@
+进入game目录下执行dist_check_and_run.sh，即可调用自己程序八次进行pk.
